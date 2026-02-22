@@ -17,7 +17,7 @@ If you encounter any issues or have questions, join the [Discord server](https:/
 Once a new firmware is available, the necessary files and instructions will appear here.
 
 ## Compatible USB Ethernet Adapters
-The adapter needs to support the USB CDC ECM protocol (e.g., most Realtek-based adapters).\
+The adapter needs to support the USB CDC-ECM protocol (e.g., most Realtek-based adapters).\
 Notably, ASIX-based adapters do not support this.
 
 Examples of compatible adapters:
