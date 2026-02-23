@@ -26,5 +26,5 @@ Examples of compatible adapters:
 - You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible
 
 ## Special Thanks
-- [Silversteel](https://github.com/silverstee1) for the amazing SP1 case design and his help in general
+- [Silversteel](https://github.com/silverstee1) for the PCB and amazing SP1 case design and his help in general
 - [Extrems](https://github.com/Extrems), [emukidid](https://github.com/emukidid) and everyone involved in creating Swiss
