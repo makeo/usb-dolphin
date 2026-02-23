@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-A USB 2.0 to EXI adapter for Slot A/B or SP1 of the GameCube.
+A USB 2.0 to EXI adapter for SP1 or Slot A/B of the GameCube.
 
 You can buy one here:  https://store.makstech.io/usb-dolphin
 #
@@ -26,5 +26,5 @@ Examples of compatible adapters:
 - You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible
 
 ## Special Thanks
-- [Silversteel](https://github.com/silverstee1) for the PCB and amazing SP1 case design and his help in general
+- [Silversteel](https://x.com/silverstee1) for the PCB and amazing SP1 case design and his help in general
 - [Extrems](https://github.com/Extrems), [emukidid](https://github.com/emukidid) and everyone involved in creating Swiss
