@@ -14,7 +14,16 @@ Once available you can buy one here:  https://store.makstech.io/usb-dolphin
 If you encounter any issues or have questions, join the [Discord server](https://discord.gg/YtA9aU3BKZ) for support.
 
 ## Firmware Updates
-Once a new firmware is available, the necessary files and instructions will appear here.
+Once a new firmware is available, the necessary files will appear under releases.
+
+How to start the update process:
+1. Download the latest fw.bin file
+2. Copy the fw.bin file into the root directory of a FAT32 formatted USB stick or drive (exFAT will not work!)
+3. Plug the USB stick/drive into the USB Dolphin
+4. Turn on your GameCube
+5. Press the button on the USB Dolphin using a paperclip or similar to start the firmware update
+6. Wait until the green light is constantly on
+7. Restart the GameCube
 
 ## Compatible USB Ethernet Adapters
 The adapter needs to support the USB CDC-ECM protocol (e.g., most Realtek-based adapters).\
