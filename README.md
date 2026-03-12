@@ -29,7 +29,7 @@ How to start the update process:
 The adapter needs to support the USB CDC-ECM protocol (e.g., most Realtek-based adapters).\
 Notably, ASIX-based adapters do not support this.
 
-The following table shows compatible chipsets/product and their limitations when using them with USB Dolphin.
+The following table shows an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
 
 | Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Known Products
 | :--- | :--- | :----: | :----: | :----: | :--- |
