@@ -29,10 +29,15 @@ How to start the update process:
 The adapter needs to support the USB CDC-ECM protocol (e.g., most Realtek-based adapters).\
 Notably, ASIX-based adapters do not support this.
 
-Examples of compatible adapters:
-- Tp-Link UE300
-- UGREEN 2.5G Ethernet Adapter (1G variant does not work!)
-- You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible
+The following table shows compatible chipsets/product and their limitations when using them with USB Dolphin.
+
+| Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Known Products
+| :--- | :--- | :----: | :----: | :----: | :--- |
+| RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | Tp-Link UE300
+| RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | UGREEN USB 2.5G (C)
+| NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | 
+
+You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
 ## Special Thanks
 - [Silversteel](https://x.com/silverstee1) for the PCB and amazing SP1 case design and his help in general
