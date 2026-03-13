@@ -31,11 +31,11 @@ Notably, ASIX-based adapters do not support this.
 
 The following table shows an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
 
-| Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Known Products
-| :--- | :--- | :----: | :----: | :----: | :--- |
-| RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | Tp-Link UE300
-| RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | UGREEN USB 2.5G (C)
-| NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | 
+| Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Protocol | Known Products
+| :--- | :--- | :----: | :----: | :----: | :----: | :--- |
+| RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | CDC-ECM| Tp-Link UE300
+| RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM | UGREEN USB 2.5G (C)
+| NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | CDC-ECM | 
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
