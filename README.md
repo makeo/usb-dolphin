@@ -39,7 +39,7 @@ The following tables shows an incomplete list of compatible chipsets/products an
 
 | Chipset | Known Products
 | :--- | :--- |
-| RTL8153 | Tp-Link UE300
+| RTL8153 | Tp-Link UE300 <br> Simplecom NU301
 | RTL8156 | UGREEN USB 2.5G (C)
 | NX7202 |
 
