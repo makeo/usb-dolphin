@@ -35,12 +35,14 @@ The following tables shows an incomplete list of compatible chipsets/products an
 | :--- | :--- | :----: | :----: | :----: | :----: |
 | RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | CDC-ECM
 | RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
+| CH397 | WCH | 100 Mbit/s | ✅ | 2043 | CDC-ECM
 | NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | CDC-ECM
 
 | Chipset | Known Products
 | :--- | :--- |
-| RTL8153 | Tp-Link UE300 <br> Simplecom NU301
+| RTL8153 | TP-Link UE300 <br> Simplecom NU301
 | RTL8156 | UGREEN USB 2.5G (C)
+| CH397 |
 | NX7202 |
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
