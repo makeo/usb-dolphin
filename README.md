@@ -53,7 +53,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 
 __*__ _Not clear if the product always uses this chipset_
 
-Currently unsupported chipsets: AX88179, AX88772A, AX88772B, AX88772C
+Currently unsupported chipsets: AX88179, AX88178A, AX88772A, AX88772B, AX88772C
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
