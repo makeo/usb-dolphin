@@ -22,8 +22,10 @@ How to start the update process:
 3. Plug the USB stick/drive into the USB Dolphin
 4. Turn on your GameCube
 5. Press the button on the USB Dolphin using a paperclip or similar to start the firmware update
-6. Wait until the green light is constantly on
-7. Restart the GameCube
+   1. The green LED will flash whilst the bootloader searches for a USB stick/drive
+   2. Both green and red LEDs will flash whilst the update is in progress (~10 seconds)
+7. Wait until the green light is constantly on
+8. Restart the GameCube
 
 ## Compatible USB Ethernet Adapters
 > [!TIP]
