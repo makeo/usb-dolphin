@@ -46,7 +46,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 | :--- | :--- |
 | RTL8153 | TP-Link UE300 <br> uni UNIAE01 (UA03) <br> uni UNICE01 (UA02) <br> Simplecom NU301
 | RTL8156 | UGREEN USB 2.5G (C)
-| AX88179B | UGREEN USB 1G __*__
+| AX88179B | UGREEN USB 1G __*__ <br> D-Link DUB-1312 __*__
 | AX88772 | Wii LAN Adapter
 | CH397 |
 | NX7202 |
