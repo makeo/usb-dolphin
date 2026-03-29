@@ -32,7 +32,7 @@ How to start the update process:
 > If you need to buy an adapter the __RTL8153__ or __RTL8156__ chipset is recommended.
 
 > [!WARNING]
-> Depending on your network, 100 Mbit/s adapters might have performance issues during game streaming.\
+> Depending on your network and if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
 > Consider using a 1 Gbit/s adapter or creating a dedicated VLAN.
 
 The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
@@ -53,13 +53,11 @@ The following tables show an incomplete list of compatible chipsets/products and
 | RTL8156 | UGREEN USB 2.5G (C)
 | AX88179B | UGREEN USB 1G __*__ <br> D-Link DUB-1312 __*__
 | AX88772 | Wii LAN Adapter
-| CH397 |
-| NX7202 |
 
 __*__ _Not clear if the product always uses this chipset_
 
-Untested chipsets: AX88179A, AX88772C\
-Currently unsupported chipsets: AX88179, AX88178A, AX88772A
+Untested chipsets that will likely work: AX88179A, AX88772A, AX88772C, AX88772D, AX88772E\
+Currently unsupported chipsets: AX88179, AX88178A, AX88172A
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
