@@ -31,6 +31,10 @@ How to start the update process:
 > [!TIP]
 > If you need to buy an adapter the __RTL8153__ or __RTL8156__ chipset is recommended.
 
+> [!WARNING]
+> Depending on your network, 100 Mbit/s adapters might have performance issues during game streaming.\
+> Consider using a 1 Gbit/s adapter or creating a dedicated VLAN.
+
 The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
 
 | Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Protocol
@@ -39,6 +43,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 | RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
 | AX88179B | ASIX | 1 Gbit/s | ✅ | 2040 | CDC-ECM
 | AX88772 | ASIX | 100 Mbit/s | ❌ | 1532 | Vendor
+| AX88772B | ASIX | 100 Mbit/s | ✅ | 1532 | Vendor
 | CH397 | WCH | 100 Mbit/s | ✅ | 2043 | CDC-ECM
 | NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | CDC-ECM
 
@@ -53,7 +58,8 @@ The following tables show an incomplete list of compatible chipsets/products and
 
 __*__ _Not clear if the product always uses this chipset_
 
-Currently unsupported chipsets: AX88179, AX88178A, AX88772A, AX88772B, AX88772C
+Untested chipsets: AX88179A, AX88772C\
+Currently unsupported chipsets: AX88179, AX88178A, AX88772A
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
