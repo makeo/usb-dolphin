@@ -43,7 +43,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 | RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
 | AX88179B | ASIX | 1 Gbit/s | ✅ | 2040 | CDC-ECM
 | AX88772 | ASIX | 100 Mbit/s | ❌ | 1532 | Vendor
-| AX88772B | ASIX | 100 Mbit/s | ✅ | 1532 | Vendor
+| AX88772A <br> AX88772B | ASIX | 100 Mbit/s | ✅ | 1532 | Vendor
 | CH397 | WCH | 100 Mbit/s | ✅ | 2043 | CDC-ECM
 | NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | CDC-ECM
 
@@ -53,10 +53,11 @@ The following tables show an incomplete list of compatible chipsets/products and
 | RTL8156 | UGREEN USB 2.5G (C)
 | AX88179B | UGREEN USB 1G __*__ <br> D-Link DUB-1312 __*__
 | AX88772 | Wii LAN Adapter
+| AX88772A | Apple A1277
 
 __*__ _Not clear if the product always uses this chipset_
 
-Untested chipsets that will likely work: AX88179A, AX88772A, AX88772C, AX88772D, AX88772E\
+Untested chipsets that will likely work: AX88179A, AX88772C, AX88772D, AX88772E\
 Currently unsupported chipsets: AX88179, AX88178A, AX88172A
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
