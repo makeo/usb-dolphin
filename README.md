@@ -32,7 +32,7 @@ How to start the update process:
 > If you need to buy an adapter the __RTL8153__ or __RTL8156__ chipset is recommended.
 
 > [!WARNING]
-> Depending on your network and if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
+> Depending on your network and mostly if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
 > Consider using a 1 Gbit/s adapter or creating a dedicated VLAN.
 
 The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
@@ -41,6 +41,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 | :--- | :--- | :----: | :----: | :----: | :----: |
 | RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | CDC-ECM
 | RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
+| AX88179 | ASIX | 1 Gbit/s | ✅ | 2044 | Vendor
 | AX88179B | ASIX | 1 Gbit/s | ✅ | 2040 | CDC-ECM
 | AX88772 | ASIX | 100 Mbit/s | ❌ | 1532 | Vendor
 | AX88772A <br> AX88772B | ASIX | 100 Mbit/s | ✅ | 1532 | Vendor
@@ -58,7 +59,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 __*__ _Not clear if the product always uses this chipset_
 
 Untested chipsets that will likely work: AX88179A, AX88772C, AX88772D, AX88772E\
-Currently unsupported chipsets: AX88179, AX88178A, AX88172A
+Currently unsupported chipsets: AX88178A, AX88172A, RD9700
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
