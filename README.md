@@ -35,7 +35,8 @@ How to start the update process:
 > Depending on your network and mostly if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
 > Consider using a 1 Gbit/s adapter or creating a dedicated VLAN.
 
-The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.
+The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.\
+Adapters with an integrated hub will not work independently of the chipset.
 
 | Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Protocol
 | :--- | :--- | :----: | :----: | :----: | :----: |
@@ -52,6 +53,7 @@ The following tables show an incomplete list of compatible chipsets/products and
 | :--- | :--- |
 | RTL8153 | TP-Link UE300 <br> uni UNIAE01 (UA03) <br> uni UNICE01 (UA02) <br> Simplecom NU301
 | RTL8156 | UGREEN USB 2.5G (C)
+| AX88179 | Amazon Basics USB 3.0 __*__
 | AX88179B | UGREEN USB 1G __*__ <br> D-Link DUB-1312 __*__
 | AX88772 | Wii LAN Adapter
 | AX88772A | Apple A1277
