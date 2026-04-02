@@ -61,7 +61,7 @@ Adapters with an integrated hub will not work independently of the chipset.
 __*__ _Not clear if the product always uses this chipset_
 
 Untested chipsets that will likely work: AX88179A, AX88772C, AX88772D, AX88772E\
-Currently unsupported chipsets: AX88178A, AX88172A, RD9700
+Currently unsupported chipsets: AX88178A, AX88172A, DM9601
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
