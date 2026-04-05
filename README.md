@@ -32,7 +32,7 @@ How to start the update process:
 > If you need to buy an adapter the __RTL8153__ or __RTL8156__ chipset is recommended.
 
 > [!WARNING]
-> Depending on your network and mostly if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
+> Depending on your network and more commonly if you use a 100 Mbit/s adapter, you may experience stuttering in video sequences.\
 > Consider using a 1 Gbit/s adapter or creating a dedicated VLAN.
 
 The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.\
