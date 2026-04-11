@@ -42,6 +42,7 @@ Adapters with an integrated hub will not work independently of the chipset.
 | :--- | :--- | :----: | :----: | :----: | :----: |
 | RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | CDC-ECM
 | RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
+| RTL8152 | Realtek | 100 Mbit/s | ✅ | 1996 | CDC-ECM
 | AX88179 | ASIX | 1 Gbit/s | ✅ | 2044 | Vendor
 | AX88179B | ASIX | 1 Gbit/s | ✅ | 2040 | CDC-ECM
 | AX88772 | ASIX | 100 Mbit/s | ❌ | 1532 | Vendor
