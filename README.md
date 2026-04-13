@@ -38,17 +38,17 @@ How to start the update process:
 The following tables show an incomplete list of compatible chipsets/products and their limitations when using them with USB Dolphin.\
 Adapters with an integrated hub will not work independently of the chipset.
 
-| Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max Frame Size | Protocol
+| Chipset | Manufacturer | Max Link Speed | Auto MDIX | Max FSP Path MTU | Protocol
 | :--- | :--- | :----: | :----: | :----: | :----: |
-| RTL8153 | Realtek | 1 Gbit/s | ✅ | 2044 | CDC-ECM
-| RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2044 | CDC-ECM
-| RTL8152 | Realtek | 100 Mbit/s | ✅ | 1996 | CDC-ECM
-| AX88179 | ASIX | 1 Gbit/s | ✅ | 2044 | Vendor
-| AX88179B | ASIX | 1 Gbit/s | ✅ | 2040 | CDC-ECM
-| AX88772 | ASIX | 100 Mbit/s | ❌ | 1532 | Vendor
-| AX88772A <br> AX88772B | ASIX | 100 Mbit/s | ✅ | 1532 | Vendor
-| CH397 | WCH | 100 Mbit/s | ✅ | 2043 | CDC-ECM
-| NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1514 | CDC-ECM
+| RTL8153 | Realtek | 1 Gbit/s | ✅ | 2030 | CDC-ECM
+| RTL8156 | Realtek | 2.5 Gbit/s | ✅ | 2030 | CDC-ECM
+| RTL8152 | Realtek | 100 Mbit/s | ✅ | 1982 | CDC-ECM
+| AX88179 | ASIX | 1 Gbit/s | ✅ | 2030 | Vendor
+| AX88179B | ASIX | 1 Gbit/s | ✅ | 2026 | CDC-ECM
+| AX88772 | ASIX | 100 Mbit/s | ❌ | 1518 | Vendor
+| AX88772A <br> AX88772B | ASIX | 100 Mbit/s | ✅ | 1518 | Vendor
+| CH397 | WCH | 100 Mbit/s | ✅ | 2029 | CDC-ECM
+| NX7202 | Naxiang Technology | 100 Mbit/s | ✅ | 1500 | CDC-ECM
 
 | Chipset | Known Products
 | :--- | :--- |
