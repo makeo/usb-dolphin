@@ -35,7 +35,7 @@ Incompatible devices due to firmware bugs:
 - Rosewill Armer RX304-APU3-35B (contains a JMS561)
 - Flipper Zero
 
-If you have one of the listed devices, live in Germany and are willing to lend it out, contact me on [Discord server](https://discord.gg/YtA9aU3BKZ).
+If you have one of the listed devices, live in Germany and are willing to lend it out, contact me on [Discord](https://discord.gg/YtA9aU3BKZ).
 
 ## Compatible USB Ethernet Adapters
 > [!TIP]
