@@ -8,7 +8,7 @@
 
 A USB 2.0 to EXI adapter for SP1 or Slot A/B of the GameCube.
 
-Once available you can buy one here:  https://store.makstech.io/usb-dolphin
+You can buy/preorder one here:  https://store.makstech.io/usb-dolphin
 #
 ## Support
 If you encounter any issues or have questions, join the [Discord server](https://discord.gg/YtA9aU3BKZ) for support.
