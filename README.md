@@ -14,7 +14,7 @@ Once available you can buy one here:  https://store.makstech.io/usb-dolphin
 If you encounter any issues or have questions, join the [Discord server](https://discord.gg/YtA9aU3BKZ) for support.
 
 ## Firmware Updates
-Once a new firmware is available, the necessary files will appear under releases.
+Current firmware can be found under [releases](https://github.com/makeo/usb-dolphin/releases/latest).
 
 How to start the update process:
 1. Download the latest fw.bin file
