@@ -63,11 +63,11 @@ Adapters with an integrated hub will not work independently of the chipset.
 | Chipset | Known Products
 | :--- | :--- |
 | RTL8153 | TP-Link UE300 <br> uni UNIAE01 (UA03) <br> uni UNICE01 (UA02) <br> Simplecom NU301
-| RTL8156 | UGREEN USB 2.5G (C)
+| RTL8156 | UGREEN USB 3.0 2.5 Gbit/s (C)
 | AX88179 | Amazon Basics USB 3.0 __*__
-| AX88179B | UGREEN USB 1G __*__ <br> D-Link DUB-1312 __*__
+| AX88179B | UGREEN USB 3.0 1 Gbit/s __*__ <br> D-Link DUB-1312 __*__
 | AX88772 | Wii LAN Adapter
-| AX88772A | Apple A1277
+| AX88772A | Apple A1277 <br> UGREEN USB 2.0 100Mbit/s
 
 __*__ _Not clear if the product always uses this chipset_
 
