@@ -76,6 +76,15 @@ Currently unsupported chipsets: AX88178A, AX88172A, DM96xx
 
 You can post the device info shown by [UsbTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) on the [Discord server](https://discord.gg/YtA9aU3BKZ) to clarify if an adapter is compatible.
 
+## Common Issues
+
+<details open>
+<summary><b>FSP network initialization times out/fails after IGR or reboot.</b></summary>
+
+> Reduce the session timeout by adding "timeout 12" to the fspd.conf (for RetroNAS users: '/opt/retronas/bin/fsp/etc/fspd.conf').
+
+</details>
+
 ## Special Thanks
 - [Silversteel](https://x.com/silverstee1) for the PCB and amazing SP1 case design and his help in general
 - [Extrems](https://github.com/Extrems), [emukidid](https://github.com/emukidid) and everyone involved in creating Swiss
